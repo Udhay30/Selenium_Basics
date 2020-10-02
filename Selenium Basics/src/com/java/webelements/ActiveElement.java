@@ -16,7 +16,7 @@ public class ActiveElement {
 		driver.get("http://www.google.com");
 		driver.manage().window().maximize();
 		WebElement ele = driver.switchTo().activeElement();
-		ele.sendKeys("hi");
+		ele.sendKeys("hi google");
 		ele.sendKeys(Keys.ENTER);
 		
 		
