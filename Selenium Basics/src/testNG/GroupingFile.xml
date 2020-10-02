@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name=" test Suite" verbose="2">
+	<test name="Test cases">
+		<groups>
+			<run>
+				<include name="LENOVO"></include>
+				<include name="VIVO"></include>
+				<exclude name=""></exclude>
+			</run>
+		</groups>
+		<classes>
+			<class name="testNG.GroupingExamples"></class>
+		</classes>
+	</test>
+</suite>

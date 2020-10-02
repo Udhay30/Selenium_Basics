@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="278" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="278" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+      <class name="com.java.testNG.AnnotationTest">
+        <test-method status="PASS" signature="method1()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method1" is-config="true" duration-ms="68" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method4()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method4" is-config="true" duration-ms="1" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method3" is-config="true" duration-ms="2" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method5()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method5" is-config="true" duration-ms="1" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+        <test-method status="PASS" signature="bing()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="bing" duration-ms="72" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bing -->
+        <test-method status="PASS" signature="method8()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method8" is-config="true" duration-ms="1" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method8 -->
+        <test-method status="PASS" signature="method5()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method5" is-config="true" duration-ms="2" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+        <test-method status="PASS" signature="google()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="google" duration-ms="7" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="method8()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method8" is-config="true" duration-ms="2" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method8 -->
+        <test-method status="PASS" signature="method6()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method6" is-config="true" duration-ms="0" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method6 -->
+        <test-method status="PASS" signature="method10()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method10" is-config="true" duration-ms="1" started-at="2020-08-02T03:26:35Z" finished-at="2020-08-02T03:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method10 -->
+        <test-method status="PASS" signature="method9()[pri:0, instance:com.java.testNG.AnnotationTest@4ae3c1cd]" name="method9" is-config="true" duration-ms="0" started-at="2020-08-02T03:26:36Z" finished-at="2020-08-02T03:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method9 -->
+      </class> <!-- com.java.testNG.AnnotationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

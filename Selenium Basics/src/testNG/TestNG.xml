@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" verbose="2">
+	<test name="Test cases1">
+		<classes>
+			<class name="testNG.DependsOn"></class>
+		</classes>
+	</test>
+	<test name="test cases2">
+		<classes>
+			<class name="testNG.MyFirstTest"></class>
+		</classes>
+	</test>
+	<test name="test cases3">
+		<classes>
+			<class name="testNG.SuiteTestCses"></class>
+		</classes>
+	</test>
+	<test name="test cases4">
+		<classes>
+			<class name="testNG.SuiteTestTwo"></class>
+		</classes>
+	</test>
+</suite>

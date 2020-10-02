@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [GroupingTest]">
+  <test thread-count="5" name="Sanitary(failed)">
+    <groups>
+      <run>
+        <include name="sanitary"/>
+        <include name="all"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.java.testNG.GroupingTestCases">
+        <methods>
+          <include name="launch"/>
+          <include name="teardown"/>
+          <include name="yahoo"/>
+        </methods>
+      </class> <!-- com.java.testNG.GroupingTestCases -->
+    </classes>
+  </test> <!-- Sanitary(failed) -->
+</suite> <!-- Failed suite [GroupingTest] -->
